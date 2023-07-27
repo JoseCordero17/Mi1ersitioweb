@@ -1,0 +1,31 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: grey;
+}
+
+h1{
+  text-align: center;
+  background-color: white;
+}
+
+img{
+  height:250px;
+  width: 250px;
+  align-items: center;
+  border-radius: 15px;
+}
+
+#contenedor-img {
+  display: flex;
+  justify-content: center;
+}
+
+p{
+  background-color: white;
+}
+
+#contenedor-video{
+  display: flex;
+  justify-content: center;
+}
